@@ -1,0 +1,10 @@
+# Credenciales de MongoDB Atlas: nunca van al repositorio
+atlas-credentials.env
+*.env
+
+# Archivos del sistema y de editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+~$*
